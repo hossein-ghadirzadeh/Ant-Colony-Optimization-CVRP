@@ -1,0 +1,9 @@
+{
+  "name": "ThirdPlace_A4_B3_R0.2_N100",
+  "num_ants": 100,
+  "num_iterations": 100,
+  "alpha": 4.0,
+  "beta": 3.0,
+  "evaporation_rate": 0.2,
+  "Q": 100
+}
